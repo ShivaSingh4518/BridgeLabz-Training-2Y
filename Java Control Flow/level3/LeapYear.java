@@ -6,7 +6,6 @@ public class LeapYear {
         System.out.print("Enter a year: ");
         int year = sc.nextInt();
 
-        // Check if the year is valid for the Gregorian calendar
         if (year < 1582) {
             System.out.println("The program works only for years >= 1582.");
         } else {
@@ -30,4 +29,5 @@ public class LeapYear {
         }
         sc.close();
     }
+
 }
