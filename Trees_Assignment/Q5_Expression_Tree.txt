@@ -1,0 +1,4 @@
+Postorder: 3 5 + 8 2 - *
+Inorder: (3+5)*(8-2)
+Preorder: * + 3 5 - 8 2
+Result: 48

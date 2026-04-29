@@ -1,0 +1,4 @@
+Delete 10 -> Replace with 12
+Insert 14 and 9 accordingly
+Best case: O(log n)
+Worst case: O(n)

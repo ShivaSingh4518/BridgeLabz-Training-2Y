@@ -1,0 +1,3 @@
+Inorder: config, user, home, docs, root, var, log
+Preorder: root, home, user, config, docs, var, log
+Postorder: config, user, docs, home, log, var, root
